@@ -2,11 +2,9 @@
 
 Online Resume for recruiters to get a better visual representation!
 
-Running App:
+**Running App:**
 
-Clone repository
-npm install
-parcel index.html
+  * parcel index.html
 
 This project was also intended to learn/practice animations more.
 
