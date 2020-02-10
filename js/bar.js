@@ -3,7 +3,7 @@
 // Grab skills nav link for click event
 document.getElementById("skills-nav").addEventListener('click', holdAnimation);
 
-/* Wait for page to load */
+/* Wait for page animation to finish */
 function holdAnimation () {
     setTimeout(function(){ animateGraph(); }, 1000);
 }
