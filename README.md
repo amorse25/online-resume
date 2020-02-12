@@ -1,11 +1,8 @@
 # online-resume
 
-Online Resume for recruiters to get a better visual representation!
+Online Resume template to practice animations in JS and jQuery. Highway.js was used for page transitions.
 
 **Running App:**
 
   * parcel index.html
 
-This project was also intended to learn/practice animations more.
-
-/* More to be added to this project, such as responsiveness for mobile */
